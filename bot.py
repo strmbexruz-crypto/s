@@ -106,8 +106,8 @@ WEBHOOK_URL = f"https://{RENDER_EXTERNAL_HOSTNAME}{WEBHOOK_PATH}"
 
 # ======================== Bot sozlamalari ========================
 BOT_USERNAME = "FilmBoxUzBot"
-CHANNEL_USERNAME = ""
-CHANNEL_URL = ""
+CHANNEL_USERNAME = "@cinebox_12"
+CHANNEL_URL = "https://t.me/cinebox_12"
 INSTAGRAM_URL = ""
 
 
